@@ -1,13 +1,13 @@
 Web-based interactive network visualization of master's theses dataset from NOVA Information Management School (NOVA IMS) was created by using Gephi.
 
 *********************************************************************************************************************************************************************
-
+*********************************************************************************************************************************************************************
 It supports exploration, browsing and navigation as well as zoon. In the visualization was incorporated the main results of Latent Dirichlet Allocation (LDA),
 clustering algorithms, and network analysis. 
-It shows the clusters, the interlinkages between documents and the subjects covered in each thesis. Besides that, the useful information of the metadata and useful
-text statistic of the documents can be embedded in the visualization.
+It shows the clusters, the interlinkages between documents and the subjects covered in each thesis. 
+Besides that, the useful information of the metadata and useful text statistic of the documents can be embedded in the visualization.
 *********************************************************************************************************************************************************************
-
+*********************************************************************************************************************************************************************
 Similar nodes (theses) are located close to each other in the network. Most of the similar nodes have the same colour which meaning that they belong to the same
 cluster. This shows some similarities with the results found by using SOM and Ward even though the network was based only in three of eight topics. 
 Above is described each cluster found:

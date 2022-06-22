@@ -1,10 +1,5 @@
 Web-based interactive network visualization of master's theses dataset from NOVA Information Management School (NOVA IMS) was created by using Gephi.
 
-
-*********************************************************************************************************************************************************************
-
-![image](https://user-images.githubusercontent.com/71514679/175117467-1ac9d0d7-9aa0-47b7-80ec-741413e4945a.png) 
-
 *********************************************************************************************************************************************************************
 
 
